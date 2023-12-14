@@ -28,7 +28,7 @@ I'm Deep Gajera, a physicist specializing in Quantum Field Theory, Laser Spectro
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/deep-gajera-dbg1082001/](https://www.linkedin.com/in/deep-gajera-dbg1082001/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B1VbIlrh%2FR7KIJnuM1MArow%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deep-gajera-dbg1082001/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deep-gajera-dbg1082001/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3b1vbilrh%2fr7kijnum1marow%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deep-gajera-dbg1082001/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3b1vbilrh%2fr7kijnum1marow%3d%3d" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/deep.gajera.1610/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/deep.gajera.1610/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/deep_10au1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/deep_10au1/" height="30" width="40" /></a>
 </p>
