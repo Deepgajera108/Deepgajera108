@@ -1,9 +1,30 @@
-<h1 align="center">Hi 👋, I'm Deep Gajera</h1>
-<h3 align="center">Physicist with specialization in Quantum Field Theory, Laser Spectroscopy, and Computational Modelling. I am currently interested in quantum simulators and using them to simulate strongly correlated particles and high-energy physics models (like CP violation and gauge theory).</h3>
+# Deep Gajera
 
-- 🔭 I’m currently working on Simulating 2D Hubbard model subjected to an external magnetic field to understand the shift in the Nuclear Magnetic Resonance (NMR) frequency with Temperature. **Model Simulation of 2D Hubbard model**
+### Hi there 👋
 
-- 📫 How to reach me **dbgajera@mun.ca**
+I'm Deep Gajera, a physicist specializing in Quantum Field Theory, Laser Spectroscopy, and Computational Modelling. I'm currently exploring the fascinating world of quantum simulators, focusing on simulating strongly correlated particles and high-energy physics models.
+
+🔭 **Currently Working On**: 
+- Simulating the 2D Hubbard model subjected to an external magnetic field to understand shifts in Nuclear Magnetic Resonance (NMR) frequencies with Temperature.
+- Collaborating on non-invasive laser spectroscopic analyses of virus crystals.
+
+🌱 **Learning**: 
+- Advancing my skills in Machine Learning, Python libraries, and Data Analytics.
+- Exploring new quantum computing techniques and their applications in theoretical physics.
+
+👯 **Looking to Collaborate** on projects involving quantum computing, particle simulations, and innovative approaches in high-energy physics.
+
+🤔 **Seeking Help With**: Advanced techniques in quantum field theory and computational challenges in physics simulations.
+
+💬 **Ask Me About**: My research in quantum field theory, my experience with laser spectroscopy, and my journey in computational modelling.
+
+🏆 **Achievements**:
+- Recipient of the Dr. Hugh J. Anderson Senior Scholarship (2023-2024)
+- Featured on the Faculty of Science Dean’s List (2022-2023)
+- Holder of the Google Data Analytics Professional Certificate.
+
+📫 **How to Reach Me**: Feel free to connect with me at [dbgajera@mun.ca](mailto:dbgajera@mun.ca).
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
